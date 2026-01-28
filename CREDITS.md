@@ -1,6 +1,7 @@
 # Credits
 ## Contributions
- - Lukas Kurz (@ShortDevelopment)
+herror 
+private- Lukas Kurz (@ShortDevelopment)
  - Clay Sweetser (@Varriount)
 
 ## Audio Design
