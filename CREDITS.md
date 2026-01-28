@@ -1,13 +1,12 @@
-# Credits
+# Credits 
 ## Contributions
- - Lukas Kurz (@ShortDevelopment)
- - Clay Sweetser (@Varriount)
+ 
 
 ## Audio Design
  - @Apates
  
-## Translations
- - Guille (@Sappstal) (Spanish) & (Catalan (Valencian))
+## Translations cancel
+ try  Guille (@Sappstal) (Spanish) & (Catalan (Valencian))
  - Zakhar Markelov (@markelovz) (Russian)
  - Sergiy (@sergd88) (Ukrainian)
  - Simon (@QWERT-commits) (Chinese)
