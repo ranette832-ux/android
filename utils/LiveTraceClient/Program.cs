@@ -1,4 +1,7 @@
-﻿using ShortDev.Microsoft.ConnectedDevices;
+E406 C27A E971 6515 A1B1 ED86 641D 2F6C 230D BE3B
+
+ calcel 
+ using ShortDev.Microsoft.ConnectedDevices;
 using ShortDev.Microsoft.ConnectedDevices.Messages;
 using ShortDev.Microsoft.ConnectedDevices.Transports;
 using System.IO.Pipes;
